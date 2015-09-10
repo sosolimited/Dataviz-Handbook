@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [Book Reviews](book-reviews.md)
+- [Learning Notes](learnings.md)
 - Dataviz Golden Rules (TBD)
 - Examples to Follow (TBD)
 - Learning Resources (TBD)
